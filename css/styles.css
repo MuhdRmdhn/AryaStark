@@ -1,0 +1,65 @@
+/*body {
+  background-color: #08D9D6;
+}*/
+
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  /*dotted size*/
+  border-color: grey;
+  width: 5%;
+  /*percentage of dotted shown on screen*/
+}
+
+h1 {
+  color: #911F27;
+}
+
+h2 {
+  color: #CD113B;
+}
+
+h3 {
+  color: #3B185F1;
+}
+
+p {
+  color: #FF7600;
+}
+
+.Siblings {
+  text-align: center;
+}
+
+.List {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.Houses{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.Skills{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.Highlights{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+.Header{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
